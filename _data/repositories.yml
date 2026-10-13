@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ferranhernandezc
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ferranhernandezc/graph-grip
+  - ferranhernandezc/baseline-sheaf-diffusion
+  - ferranhernandezc/ECHO-grip

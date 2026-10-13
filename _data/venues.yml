@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
+  url: https://neurips.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"LoG":
+  url: https://logconference.org/
+  color: "#007a3d"
 
-"Vision":
-  color: "#009f36"
+"NeurReps":
+  url: https://neurreps.org/
+  color: "#7a1a00"
+
+"GRaM":
+  url: https://gram-workshop.github.io/
+  color: "#6b007a"
+
+"PMLR":
+  url: https://proceedings.mlr.press/
+  color: "#b35900"
