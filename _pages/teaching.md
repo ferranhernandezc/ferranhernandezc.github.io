@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: A list of courses I have taught as a Teaching Assistant or Supervisor.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### University of Cambridge
+- **Geometric Deep Learning** (Teaching Assistant)
+- **Information Theory** (Supervisor)
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Universitat Politècnica de Catalunya (UPC) — CFIS
+- **Teaching Assistant** (Sep 2022 – Jun 2023): Awarded a one-year teaching assistantship; ran seminars on machine learning, commutative algebra, and induction for first-year double-degree students.
 
-{% include courses.liquid %}
