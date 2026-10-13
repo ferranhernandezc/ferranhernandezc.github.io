@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ferranhernandezc.github.io/ferranhernandezc.github.io/sitemap.xml
+Sitemap: https://ferranhernandezc.github.io/sitemap.xml
